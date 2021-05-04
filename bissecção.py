@@ -2,8 +2,8 @@
 
 import math
 
-entrada = open("entrada.in", "r")
-saida = open("saida.out", "w")
+entrada = open("tBisseccao.in", "r")
+saida = open("tBisseccao.out", "w")
 
 #preparando as variaveis do arquivo.
 #Elas são lidas na ordem: 
