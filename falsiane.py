@@ -1,9 +1,9 @@
 import math
 
-#metodo da Bissecção
+#metodo da Posição Falsa
 
-entrada = open("entrada.in", "r")
-saida = open("saida.out", "w")
+entrada = open("tFalsiane.in", "r")
+saida = open("tfalsiane.out", "w")
 
 #preparando as variaveis do arquivo.
 #Elas são lidas na ordem: 
